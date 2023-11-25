@@ -29,7 +29,6 @@ This project is a simple demonstration and is not intended for contribution. How
 - A special thanks to the online programming communities for their endless resources and support.
 
 ## Contact
-- [Your Name]
-- [Your Email]
-- [LinkedIn Profile (optional)]
-- [Other Contact Information or Portfolio Links (optional)]
+- Joseph McKinney
+- Github: Joecode22
+
